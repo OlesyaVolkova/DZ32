@@ -16,7 +16,7 @@ public class ForwardList {
         size++;
     }
 
-    public void push_back(int Data)  //push_back не умеет рабоать с пустым список
+    public void push_back(int Data)  //push_back не умеет рабоать с пустым списком
     {
         if (Head == null) {
             push_front(Data);
