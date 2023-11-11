@@ -1,5 +1,5 @@
 public class CopyConstructor {
-    Element Head; // head of the list
+    Element Head; 
     int size;
 
     public CopyConstructor() {
